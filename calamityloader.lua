@@ -38,7 +38,7 @@ then
             calamityGui.Enabled = not calamityGui.Enabled
         else
             -- Load the Calamity script using the Orion UI Library
-            loadstring(game:HttpGet('https://pastebin.com/raw/z0EHQ8ZA'))()
+            loadstring(game:HttpGet('https://pastebin.com/raw/9JtzbEWD'))()
         end
     end)
 end
